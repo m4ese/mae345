@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*.DS_store
+mae345/__pycache__
+Coding\ Solutions/
+*.zip
+Final_Project/best_model.pth
